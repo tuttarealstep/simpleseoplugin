@@ -1,0 +1,9 @@
+{
+  "name": "SimpleSEO",
+  "description": "A simple plugin to manage SEO",
+  "url": "",
+  "author": "Stefano Valenzano",
+  "author url": "tuttarealstep.github.io",
+  "version": 1.0,
+  "pluginFile": "simpleSeo.php"
+}
